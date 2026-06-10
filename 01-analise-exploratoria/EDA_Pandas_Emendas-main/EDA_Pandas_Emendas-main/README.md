@@ -19,10 +19,10 @@ Permitiu um grande ganho de conhecimento nas áreas lógicas do uso dos comandos
 
 ## Tecnologias Utilizadas
 
-GitBash
-GitHub
-Google Colab
-VScode
-Pandas
+GitBash<br>
+GitHub<br>
+Google Colab<br>
+VScode<br>
+Pandas<br>
 
 Este repositório foi criado por NicoleCruz06.
